@@ -1,4 +1,5 @@
 
+pub mod utils;
 pub mod twentytwo;
 
 extern crate aoc_runner;
